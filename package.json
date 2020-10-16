@@ -3,6 +3,7 @@
 	"author": "Derek Dhammaloka",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "project", "package"],
+	"licence": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
